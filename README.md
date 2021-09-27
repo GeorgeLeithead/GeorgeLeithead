@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋
+
+- 🔭 I’m George Leithead
+- 🏢 I work at a small company called Microsoft help building and supporting the .NET Community
+- 🌱 I'm always learning, you can find me on Microsoft Learn: https://docs.microsoft.com/en-us/users/georgeleithead/achievements and on my personal blog: https://blog.internetwideworld.com/
+- 🦜 I’m on Twitter https://twitter.com/georgeleithead
+- 📫 How to reach me: https://www.internetwideworld.com/ and https://www.linkedin.com/in/georgeleithead/
+- 😄 Pronouns: it/that
+
+![George's github stats](https://github-readme-stats.vercel.app/api?username=georgeleithead&show_icons=true)
