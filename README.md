@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m George Leithead
-- 🏢 I work at a small company called Microsoft help building and supporting the .NET Community
+- 🏢 I'm a self-employed Software Engineer based in the UK.  I'm currently open to contract oportunities, both here in the UK and abroad, and I'm open to re-locating to another country if the oportunity is right!
 - 🌱 I'm always learning, you can find me on Microsoft Learn: https://docs.microsoft.com/en-us/users/georgeleithead/achievements and on my personal blog: https://blog.internetwideworld.com/
 - 🦜 I’m on Twitter https://twitter.com/georgeleithead
 - 📫 How to reach me: https://www.internetwideworld.com/ and https://www.linkedin.com/in/georgeleithead/
