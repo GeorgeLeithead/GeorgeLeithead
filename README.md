@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋
-
 - 🔭 I’m George Leithead
 - 🏢 I work at a small company called Microsoft help building and supporting the .NET Community
 - 🌱 I'm always learning, you can find me on Microsoft Learn: https://docs.microsoft.com/en-us/users/georgeleithead/achievements and on my personal blog: https://blog.internetwideworld.com/
