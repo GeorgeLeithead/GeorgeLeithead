@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 🌱 I'm always learning, you can find me on Microsoft Learn: https://docs.microsoft.com/en-us/users/georgeleithead/achievements and on my personal blog: https://blog.internetwideworld.com/
 - 🦜 I’m on Twitter https://twitter.com/georgeleithead
 - 📫 How to reach me: https://www.internetwideworld.com/ and https://www.linkedin.com/in/georgeleithead/
-- 😄 Pronouns: it/that
+- 😄 Pronouns: he/him
 
 ![George's github stats](https://github-readme-stats.vercel.app/api?username=georgeleithead&show_icons=true)
