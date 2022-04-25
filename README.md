@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m George Leithead
-- 🏢 I'm a self-employed Software Engineer based in the UK.  I'm currently open to contract oportunities, both here in the UK and abroad, and I'm open to re-locating to another country if the oportunity is right!
-- 🌱 I'm always learning, you can find me on Microsoft Learn: https://docs.microsoft.com/en-us/users/georgeleithead/achievements and on my personal blog: https://blog.internetwideworld.com/
-- 🦜 I’m on Twitter https://twitter.com/georgeleithead
-- 📫 How to reach me: https://www.internetwideworld.com/ and https://www.linkedin.com/in/georgeleithead/
+- 🏢 I'm a self-employed Software Engineer based in the UK.  Currently open to contract oportunities, both here in the UK and abroad.  I'm open to re-locating to any other country if the oportunity is right!
+- 🌱 Always learning, you can find me on Microsoft Learn: https://docs.microsoft.com/en-us/users/georgeleithead/achievements and on my personal blog: https://blog.internetwideworld.com/
+- 🦜 On Twitter https://twitter.com/georgeleithead
+- 📫 Reach me: https://www.internetwideworld.com/ and https://www.linkedin.com/in/georgeleithead/
 - 😄 Pronouns: he/him
+- ⚡Qualified CASI Level 2 snowboard instructor and keen kitesurfer.
 
 ![George's github stats](https://github-readme-stats.vercel.app/api?username=georgeleithead&show_icons=true)
