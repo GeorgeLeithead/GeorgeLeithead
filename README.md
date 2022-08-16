@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 📫 [Reach me](https://www.internetwideworld.com/) and on [LinkedIn](https://www.linkedin.com/in/georgeleithead/)
 - 💬 Ask me about - [LiLo.Lite](https://www.internetwideworld.com/lilolite), my Xamarin.Forms mobile app for real-time cyptocurrency prices.
 - 👯 In my free time, I have contributed to various OSS projects, notible are:
-  - [.NET MAUI Connunity Toolkit](https://github.com/CommunityToolkit/Maui)
+  - [.NET MAUI Community Toolkit](https://github.com/CommunityToolkit/Maui)
 - 😄 Pronouns: he/him
 - ⚡Qualified CASI Level 2 snowboard instructor and keen kitesurfer.
 
