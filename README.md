@@ -25,4 +25,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡Qualified CASI Level 2 snowboard instructor, keen kitesurfer and broken over 150 bones.
 
-![George's github stats](https://github-readme-stats.vercel.app/api?username=georgeleithead&show_icons=true)
+<div align="center">
+<img alt="George's stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=georgeleithead&show_icons=true&count_private=true&theme=github_dark" />
+<img alt="George's contribution streak" width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=GeorgeLeithead&theme=github-dark&date_format=j%2Fn%5B%2FY%5D" />
+</div>
+
+
+
+![George's activity graph](https://activity-graph.herokuapp.com/graph?username=GeorgeLeithead&theme=github)
