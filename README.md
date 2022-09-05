@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m George Leithead
-- 🏢 I'm a self-employed Software Engineer based in the UK.  Currently open to contract oportunities, both here in the UK and abroad.  Open to re-locating to any other country for the right oportunity!
+- 🏢 I'm a self-employed Software Engineer based in the West Midlands, UK.
 - 🌱 Always learning, you can find mout more on my personal web site [InternetWideWorld.com](https://www.internetwideworld.com)
 - 🦜 On Twitter [@GeorgeLeithead](https://twitter.com/georgeleithead)
 - 📫 [Reach me](https://www.internetwideworld.com/) and on [LinkedIn](https://www.linkedin.com/in/georgeleithead/)
@@ -27,9 +27,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 <img alt="George's stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=georgeleithead&show_icons=true&count_private=true&theme=github_dark" />
-<img alt="George's contribution streak" width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=GeorgeLeithead&theme=github-dark&date_format=j%2Fn%5B%2FY%5D" />
+<img alt="George's contribution streak" width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=GeorgeLeithead&theme=github-dark-blue&date_format=j%2Fn%5B%2FY%5D" />
 </div>
-
-
 
 ![George's activity graph](https://activity-graph.herokuapp.com/graph?username=GeorgeLeithead&theme=github)
