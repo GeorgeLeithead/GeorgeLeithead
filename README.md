@@ -28,5 +28,3 @@ Here are some ideas to get you started:
 ![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgeLeithead&show_icons=true&theme=github_dark&count_private=true)
 
 ![George's contribution streak](https://github-readme-streak-stats.herokuapp.com?user=GeorgeLeithead&theme=github-dark-blue&date_format=j%2Fn%5B%2FY%5D)
-
-![George's activity graph](https://activity-graph.herokuapp.com/graph?username=GeorgeLeithead&theme=github)
