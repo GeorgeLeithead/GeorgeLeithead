@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m George Leithead
+- 🔭 I’m George Leitheadb (pronounced as: Ge-orge Le-i-th/ehd)
 - 🏢 I'm a self-employed Software Engineer based in the West Midlands, UK.
 - 🌱 Always learning, you can find mout more on my personal web site [InternetWideWorld.com](https://www.internetwideworld.com)
 - 🦜 On Twitter [@GeorgeLeithead](https://twitter.com/georgeleithead)
