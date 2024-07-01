@@ -14,16 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m George Leitheadb (pronounced as: Ge-orge Le-i-th/ehd)
-- 🏢 I'm a self-employed Software Engineer based in the West Midlands, UK.
+- 🔭 I’m George Leithead (pronounced as: Ge-orge Le-i-th/ehd)
+- 🏢 I'm a self-employed Software Engineer based in the West Midlands, England, UK.
 - 🌱 Always learning, you can find mout more on my personal web site [InternetWideWorld.com](https://www.internetwideworld.com)
 - 🦜 On Twitter [@GeorgeLeithead](https://twitter.com/georgeleithead)
 - 📫 [Reach me](https://www.internetwideworld.com/) and on [LinkedIn](https://www.linkedin.com/in/georgeleithead/)
-- 💬 Ask me about - [LiLo.Lite](https://www.internetwideworld.com/lilolite), my Xamarin.Forms mobile app for real-time cyptocurrency prices.
+- 💬 Ask me about - [LiLo.Lite](https://www.internetwideworld.com/lilolite), my .net MAUI/Xamarin.Forms cross-platform mobile app for real-time cyptocurrency prices.
 - 👯 In my free time, I have contributed to various OSS projects, notible are:
-  - [.NET MAUI Community Toolkit](https://github.com/CommunityToolkit/Maui)
-- 😄 Pronouns: he/him
-- ⚡Qualified CASI Level 2 snowboard instructor, keen kitesurfer and broken over 150 bones.
+  - [.NET MAUI Community Toolkit](https://github.com/CommunityToolkit/Maui), specifically responsible for:
+    - [AvatarView](https://learn.microsoft.com/en-us/dotnet/communitytoolkit/maui/views/avatarview)
+    - [GravatarImageSource](https://learn.microsoft.com/en-us/dotnet/communitytoolkit/maui/imagesources/gravatarimagesource)
+    - [IsInRangeConverter](https://learn.microsoft.com/en-us/dotnet/communitytoolkit/maui/converters/is-in-range-converter)
+- ⚡Qualified CASI Level 2 snowboard instructor, keen kitesurfer and broken over 190 bones.
 
 ![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgeLeithead&show_icons=true&theme=github_dark&count_private=true)
 
